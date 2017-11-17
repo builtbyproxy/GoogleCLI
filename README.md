@@ -2,6 +2,7 @@
 [![alt text](https://i.imgur.com/0YRwI6R.png)](https://github.com/builtbyproxy/googlecli)
 
 # GoogleCLI
+
 GoogleCLI is a simple terminal app, designed to allow you to search from your terminal
 It will detect your default browser and open a tab to suit your search, mitigating the need to navigate multiple workspaces to find your buried browser.
 
