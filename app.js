@@ -1,4 +1,5 @@
 #! /usr/bin/env node
+const opn = require('opn');
 
 function buildParameters(){
   let argEntries = process.argv;
@@ -20,7 +21,7 @@ function run(){
   let params = buildParameters()
   let url = "https://www.google.com.au/search?q="+ params;
 
-  console.log(url);
+  opn(url);
 }
 
 run();

@@ -25,5 +25,7 @@
     "url": "https://github.com/builtbyproxy/GoogleCLI/issues"
   },
   "homepage": "https://github.com/builtbyproxy/GoogleCLI#readme",
-  "dependencies": {}
+  "dependencies": {
+    "opn": "^5.1.0"
+  }
 }
