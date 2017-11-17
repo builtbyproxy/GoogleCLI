@@ -3,7 +3,9 @@
   "version": "1.0.2",
   "description": "Open a tab in your default browser with the results of you CLI Google Search",
   "main": "app.js",
-  "bin": "./app.js",
+  "bin": {
+    "gl": "./app.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
