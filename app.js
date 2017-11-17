@@ -6,7 +6,7 @@ function buildParameters(){
   let finalParameters = [];
   for(let i = argEntries.length-1; i >= 0; i--){
     //loop through each char, if equal to / then:
-    if(argEntries[i].indexOf("/") < 0){
+    if(argEntries[i].indexOf("/") < 0 && argEntries[i].indexOf('\\')){
       finalParameters.push(argEntries[i]);
     }
   }
