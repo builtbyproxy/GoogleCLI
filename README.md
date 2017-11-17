@@ -1,5 +1,5 @@
 
-[![alt text](https://i.imgur.com/WPoAD5P.png)](https://github.com/builtbyproxy/googlecli)
+[![alt text](https://i.imgur.com/h6i6PZP.png)](https://github.com/builtbyproxy/googlecli)
 
 # GoogleCLI
 
