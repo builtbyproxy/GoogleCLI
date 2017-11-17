@@ -45,6 +45,7 @@ GoogleCLI is currently utilising the following dependencies:
 
   - Display Results in Terminal
   - Enable Help Command
+  - Open in Lynx
   
 ### Known Issues - please post create a ticket on the github for any issues
   - None So Far.
