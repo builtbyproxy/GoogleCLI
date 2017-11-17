@@ -30,7 +30,7 @@ It will detect your default browser and open a tab to suit your search, mitigati
 
 ```sh
 $ sudo npm install -g googlecli
-$ gl <google search>
+$ gl <Search Paremters>
 ```
 
 #
