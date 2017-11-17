@@ -1,6 +1,6 @@
 {
   "name": "googlecli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Open a tab in your default browser with the results of you CLI Google Search",
   "main": "app.js",
   "bin": {
