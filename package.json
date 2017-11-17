@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/builtbyproxy/GoogleCLI/issues"
   },
-  "homepage": "https://github.com/builtbyproxy/GoogleCLI#readme"
+  "homepage": "https://github.com/builtbyproxy/GoogleCLI#readme",
+  "dependencies": {}
 }
