@@ -6,7 +6,6 @@
 GoogleCLI is a simple terminal app, designed to allow you to search from your terminal
 It will detect your default browser and open a tab to suit your search, mitigating the need to navigate multiple workspaces to find your buried browser.
 
- [![Donate](https://www.newsforpublic.com/wp-content/uploads/2015/08/buy-me-a-coffee.png)](http://paypal.me/LachlanYoung)
 #
 ## Installation and Use
 
@@ -49,7 +48,7 @@ GoogleCLI is currently utilising the following dependencies:
   - Open in Lynx
   
 ### Known Issues - please post create a ticket on the github for any issues
-  - None So Far.
+  - Doesn't cater to '/' or '\' in your search
 
 License
 ----
